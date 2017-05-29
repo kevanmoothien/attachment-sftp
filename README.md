@@ -1,7 +1,7 @@
 # README
 
 Environment variable required:
-
+```
 DATABASE_URL=postgres://kevan:kevan@localhost:5432/attachment
 USERNAME=kevan@****.com
 PASSWORD=*******
@@ -11,7 +11,7 @@ CLIENT_SECRET=6856*******43
 HOST=168.***.**.87
 SFTP_USERNAME=test
 SFTP_PASSWORD=password
-
+```
 setup locally
 
 ```
