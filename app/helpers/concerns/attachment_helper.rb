@@ -1,0 +1,2 @@
+module Concerns::AttachmentHelper
+end
